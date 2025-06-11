@@ -1,0 +1,7 @@
+To start App; 
+1 Open your Xampp App
+Start the MySql and Apache server
+On your browser-start app at http://localhost/SIMPLE-CHAT-APP/
+Register with you credentials 
+Choose a user to hold a conversation with
+Confirm records in your database at http://localhost/phpmyadmin
